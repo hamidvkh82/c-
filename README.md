@@ -28,5 +28,25 @@ namespace BasicCSharpTutorial
                 Console.WriteLine("شما هنوز کودک هستید.");
             }
 
+            
+            Console.WriteLine("شمارش از 1 تا 5:");
+            for (int i = 1; i <= 5; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+            // استفاده از تابع ساده
+            int result = AddNumbers(3, 5);
+            Console.WriteLine($"جمع 3 و 5 برابر است با {result}");
+        }
+
+        // تعریف تابع
+        static int AddNumbers(int a, int b)
+        {
+            return a + b;
+        }
+    }
+}
+
             // حلقه For برای شمارش
 Comprehensive C# code snippet
