@@ -6,6 +6,12 @@ namespace BasicCSharpTutorial
     class Program
     {
         // تابع اصلی برنامه
+
+
+
+
+
+        
         static void Main(string[] args)
         {
             // چاپ متن در خروجی
