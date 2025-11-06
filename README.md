@@ -15,6 +15,9 @@ namespace BasicCSharpTutorial
             int age = 22;
             string name = "علی";
 
+
+            
+
             // نمایش اطلاعات کاربر
             Console.WriteLine($"نام من {name} است و {age} سال دارم.");
 
