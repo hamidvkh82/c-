@@ -10,7 +10,6 @@ namespace BasicCSharpTutorial
 
 
 
-
         
         static void Main(string[] args)
         {
