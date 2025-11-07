@@ -5,6 +5,7 @@ namespace BasicCSharpTutorial
 {
     class Program
     {
+    
         // تابع اصلی برنامه
 
         static void Main(string[] args)
