@@ -11,7 +11,6 @@ namespace BasicCSharpTutorial
 
 
 
-
     
         // تابع اصلی برنامه
 
