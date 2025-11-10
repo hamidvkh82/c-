@@ -7,7 +7,7 @@ namespace BasicCSharpTutorial
     {
 
 
-        // تابع اصلی برنامه
+        // تابع اصلی برنام
 
         static void Main(string[] args)
         {
