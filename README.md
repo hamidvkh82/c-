@@ -16,7 +16,6 @@ namespace BasicCSharpTutorial
 
 
 
-
         // تابع اصلی برنام
 
         static void Main(string[] args)
