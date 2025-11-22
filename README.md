@@ -5,11 +5,6 @@ namespace BasicCSharpTutorial
 {
     class Program
 
-fyttyj
-
-
-3jkjh
-
 
 
     
