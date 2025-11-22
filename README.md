@@ -5,9 +5,6 @@ namespace BasicCSharpTutorial
 {
     class Program
 
-    
-
-
 
 
 
