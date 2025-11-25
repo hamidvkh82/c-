@@ -13,14 +13,6 @@ namespace BasicCSharpTutorial
 
 
 
-
-
-
-
-
-
-
-
         // تابع اصلی برنام
 
 
