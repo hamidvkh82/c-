@@ -7,12 +7,6 @@ namespace BasicCSharpTutorial
     
 
 
-    
-
-
-
-
-
 
 
 
