@@ -6,13 +6,6 @@ namespace BasicCSharpTutorial
     class Program
     
 
-
-
-
-
-
-
-
         // تابع اصلی برنام
 
 
